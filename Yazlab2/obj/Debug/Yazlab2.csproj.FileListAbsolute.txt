@@ -1,0 +1,10 @@
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\bin\Debug\Yazlab2.exe.config
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\bin\Debug\Yazlab2.exe
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\bin\Debug\Yazlab2.pdb
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\obj\Debug\Yazlab2.csprojAssemblyReference.cache
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\obj\Debug\Yazlab2.Properties.Resources.resources
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\obj\Debug\Yazlab2.csproj.GenerateResource.cache
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\obj\Debug\Yazlab2.csproj.CoreCompileInputs.cache
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\obj\Debug\Yazlab2.exe
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\obj\Debug\Yazlab2.pdb
+C:\Users\Emre Yavuz\source\repos\Yazlab2\Yazlab2\obj\Debug\Yazlab2.Form1.resources
