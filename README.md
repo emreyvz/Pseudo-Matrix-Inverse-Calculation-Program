@@ -3,7 +3,7 @@
 ![img](resim.png)
 
 
-## A program for calculating Pseudo Matrix Inverse
+## A program for calculating Pseudo Matrix Inverse with GUI
 
 
 
