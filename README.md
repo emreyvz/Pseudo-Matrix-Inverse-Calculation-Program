@@ -15,6 +15,8 @@
   
   - Calculating Inverse of Matrix using Moore-Penrose
   
+  - Calculates Computational Complexity
+  
 
 
 
