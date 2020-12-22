@@ -17,7 +17,7 @@
   
   - Calculates Computational Complexity
   
-
+  - Describes calculations step by step
 
 
 
