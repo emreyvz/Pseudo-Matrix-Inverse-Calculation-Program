@@ -1,9 +1,9 @@
-# Pseudo Matrix Inverse Calculation Program
+# Pseudo Matrix Inverse Calculation Application
 
 ![img](resim.png)
 
 
-## A program for calculating Pseudo Matrix Inverse with GUI
+## A program for calculating Pseudo Matrix Inverse with UI
 
 
 
